@@ -1,2 +1,6 @@
 cassava-leaf-disease-classification/
 .ipynb_checkpoints/
+best_model.pt
+criterion.pt
+history.json
+optimizer.pt

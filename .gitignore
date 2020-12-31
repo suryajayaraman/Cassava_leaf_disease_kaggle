@@ -4,5 +4,6 @@ best_model.pt
 criterion.pt
 history.json
 optimizer.pt
-weight_files/*
+weight files/
+public kernels/
 

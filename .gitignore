@@ -6,4 +6,5 @@ history.json
 optimizer.pt
 weight files/
 public kernels/
+val_predictions/
 
